@@ -1,0 +1,46 @@
+.link{
+    color:silver;
+    display: inline;
+    padding-top: 5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+    font-size:20px;
+}
+.link:hover{
+    background-color:black;
+    color:gold;
+}
+#picture{
+    width:auto;
+    height:300px;
+    border-radius: 0%;
+    margin:20px;
+}
+#main{
+    background:linear-gradient(#007FFF, lavender);
+    font-size:24px;
+}
+img{
+    transition: transform .2s;
+    border: 10px solid lavenderblush;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line{
+    height: 6px;
+    width: 150px;
+    background-color: black;
+    margin: 10px auto;
+}
+body{
+    background-color:lavender;
+    font-family:cursive;
+}
+#heading{
+    font-size:23px;
+}
+#myname{
+    font-size: 20px;
+}
